@@ -1,0 +1,53 @@
+body{
+    margin: 10px;
+}
+.header{
+    background-color: rgb(9, 9, 87);
+    height: 100px;
+}
+
+.logo img{
+    
+    width: 50%;
+    
+}
+.header a{
+    text-decoration:none;
+}
+.contain li{
+    list-style: none;
+    float: left;
+    margin: 2%;
+
+}
+.contain a:hover{
+    background-color: white;
+    font-size: large;
+    color: rgb(233, 224, 224);
+}
+.login button{
+    margin-top: 50px;
+}
+button:hover{
+    background-color: brown;
+}
+.main{
+    height: 500px;
+    background-color: blue;
+    background-image: url(../../images/mainbackground.jpg);
+
+}
+.main h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: antiquewhite;
+    margin-top: 200px;
+}
+.main p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: blanchedalmond;
+}
+.bottom{
+    height: 100px;
+    
+}

@@ -1,0 +1,13 @@
+.main{
+    height: 500px;
+    background-image: url(../../images/mainbackground.jpg);
+    color: aliceblue;
+}
+.main form{
+    margin-top: 120px;
+}
+.main p{
+    text-align: center;
+    background-color: rgb(227, 234, 241);
+    color: black;
+}
