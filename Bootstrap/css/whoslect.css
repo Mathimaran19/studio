@@ -1,3 +1,6 @@
+body{
+    margin: 4%;
+}
 .main{
     height: 500px;
     background-image: url(../../images/mainbackground.jpg);
@@ -8,6 +11,6 @@
     margin-top: 120px;
 }
 .main button:hover{
-    background-color: red;
+    background-color: rgb(69, 24, 173);
     font-size: 20px;
 }
